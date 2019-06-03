@@ -23,7 +23,7 @@
 
 ## 最大熵模型训练
 + Github仓库：https://github.com/wolfbrother/Maximum-entropy-model-for-text-classification-
-
+![maxent4classification](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/maxent.png?raw=true)
 
 ## 隐形马尔科夫链
 + Github仓库：https://github.com/wolfbrother/Hidden-Markov-Model-implemented-with-Python
