@@ -5,7 +5,7 @@
 
 ## Logistic回归
 + Github仓库： https://github.com/wolfbrother/Logistic-Regression
-  ![参数训练示意图](https://img-my.csdn.net/uploads/201411/25/1416895888_5605.gif)
+  ![参数训练示意图](https://raw.githubusercontent.com/wolfbrother/MachineLearningPractices/master/_picutures/1416895888_5605.gif?token=ACOPOTCLKJZOVIO6ZKLPAJK46TLKI )
 
 
 ## 提升树模型
