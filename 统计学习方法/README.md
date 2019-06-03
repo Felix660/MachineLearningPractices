@@ -14,6 +14,7 @@
 ![tree](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/tree.png?raw=true)
  
 ## 期望最大化与高斯混合模型
++ Github仓库：https://github.com/wolfbrother/GaussianMixtureModel
 + 我的博客：
   + [高斯混合模型用于聚类](https://blog.csdn.net/golden1314521/article/details/46051431)
   + [EM模型的几个开源包](https://blog.csdn.net/golden1314521/article/details/45585651)
