@@ -10,7 +10,7 @@
 
 ## 提升树模型
 + Github仓库： https://github.com/wolfbrother/Adaboost-for-binary-classification 
- ![tree](https://raw.githubusercontent.com/wolfbrother/MachineLearningPractices/master/_picutures/tree.png?token=ACOPOTAHU7G4NQVGIBFURKS46TNLK)
+ ![tree](https://raw.githubusercontent.com/wolfbrother/MachineLearningPractices/master/_picutures/tree.png)
 
 ## 最大熵模型训练
 + Github仓库：https://github.com/wolfbrother/Maximum-entropy-model-for-text-classification-
