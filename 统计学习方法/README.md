@@ -15,10 +15,6 @@
  
 ## 期望最大化与高斯混合模型
 + Github仓库：https://github.com/wolfbrother/GaussianMixtureModel
-+ 我的博客：
-  + [高斯混合模型用于聚类](https://blog.csdn.net/golden1314521/article/details/46051431)
-  + [EM模型的几个开源包](https://blog.csdn.net/golden1314521/article/details/45585651)
-  + [maxent工具包的测试](https://blog.csdn.net/golden1314521/article/details/45488773)
 
 ![期望最大化用于分类](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/gmm.png?raw=true)
 
