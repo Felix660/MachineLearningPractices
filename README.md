@@ -8,7 +8,7 @@
 
 
 ## 提升树模型
-+ Github仓库： https://github.com/wolfbrother/Logistic-Regression 
++ Github仓库： https://github.com/wolfbrother/Adaboost-for-binary-classification 
 
 ## 最大熵模型训练
 + Github仓库：https://github.com/wolfbrother/Maximum-entropy-model-for-text-classification-
