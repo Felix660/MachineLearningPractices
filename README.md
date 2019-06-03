@@ -5,6 +5,7 @@
 
 ## Logistic回归
 + Github仓库： https://github.com/wolfbrother/Logistic-Regression
++ 我写的博客记录： https://blog.csdn.net/golden1314521/article/details/41049571 
   ![参数训练示意图](https://raw.githubusercontent.com/wolfbrother/MachineLearningPractices/master/_picutures/1416895888_5605.gif?token=ACOPOTCLKJZOVIO6ZKLPAJK46TLKI )
 
 
