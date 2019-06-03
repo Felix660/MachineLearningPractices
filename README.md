@@ -11,6 +11,9 @@
 ## 提升树模型
 + Github仓库： https://github.com/wolfbrother/Adaboost-for-binary-classification 
  ![tree](https://raw.githubusercontent.com/wolfbrother/MachineLearningPractices/master/_picutures/tree.png)
+ 
+## 期望最大化与高斯混合模型
++ 我的博客：https://blog.csdn.net/golden1314521/article/details/46051431
 
 ## 最大熵模型训练
 + Github仓库：https://github.com/wolfbrother/Maximum-entropy-model-for-text-classification-
