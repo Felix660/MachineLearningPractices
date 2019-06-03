@@ -10,7 +10,7 @@
 
 ## 提升树模型
 + Github仓库： https://github.com/wolfbrother/Adaboost-for-binary-classification 
- ![tree](https://raw.githubusercontent.com/wolfbrother/MachineLearningPractices/master/_picutures/tree.png)
+ ![tree](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/tree.png?raw=true)
  
 ## 期望最大化与高斯混合模型
 + 我的博客：
