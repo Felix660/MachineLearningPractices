@@ -5,18 +5,20 @@
 
 ## Logistic回归
 + Github仓库： https://github.com/wolfbrother/Logistic-Regression
-  ![参数训练示意图](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/1416895888_5605.gif?raw=true)
+  
+![参数训练示意图](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/1416895888_5605.gif?raw=true)
 
 
 ## 提升树模型
 + Github仓库： https://github.com/wolfbrother/Adaboost-for-binary-classification 
- ![tree](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/tree.png?raw=true)
+![tree](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/tree.png?raw=true)
  
 ## 期望最大化与高斯混合模型
 + 我的博客：
   + [高斯混合模型用于聚类](https://blog.csdn.net/golden1314521/article/details/46051431)
   + [EM模型的几个开源包](https://blog.csdn.net/golden1314521/article/details/45585651)
   + [maxent工具包的测试](https://blog.csdn.net/golden1314521/article/details/45488773)
+
 ![期望最大化用于分类](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/gmm.png?raw=true)
 
 ## 最大熵模型训练
