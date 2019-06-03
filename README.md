@@ -30,3 +30,4 @@
 
 ## 条件随机场
 + Github仓库：https://github.com/wolfbrother/Conditional-random-field-model-implemented-with-Python
+![crf](https://github.com/wolfbrother/MachineLearningPractices/blob/master/_picutures/crf.png?raw=true)
